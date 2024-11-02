@@ -80,19 +80,6 @@
       ```bash
       cd pomodoro-terminal
       ```
-    - Установить необходимые инструменты (если они ещё не установлены):
-      - GCC:
-        ```bash
-        sudo apt-get install build-essential
-        ```
-      - NASM:
-        ```bash
-        sudo apt-get install nasm
-        ```
-      - Make:
-        ```bash
-        sudo apt-get install make
-        ```
 
 2. **Сборка проекта**:
     - Выполните команду:
